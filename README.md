@@ -1,5 +1,5 @@
 Data provided here is in the form of excel sheet, which is consisting of 5 sheets.
-Each sheet contains data for individual result parameter as shown in Table 3. 
+Each sheet contains data for individual result parameter. 
 These result parameters are recorded for each case for plain and reinforced concrete separately. 
 Sheet 1	-Thermal Conductivity (W/m℃),
 Sheet 2	-Displacement (mm),
